@@ -1,0 +1,11 @@
+{
+  "@@locale": "ua",
+  "logo": "Рекоммендер",
+  "onboardingContinue": "Знайди своє кіно!",
+  "loginTitle": "Log In",
+  "loginEmail": "Email",
+  "loginPassword": "Password",
+  "loginContinue": "OK, let me in!",
+  "loginSignUp": "Sign up",
+  "loginForgotPassword": "Forgot password?"
+}
